@@ -2,10 +2,10 @@
 Automatic gardening system
 
 Main parts:
-![Assembly](master/img/assembly.jpg)
+![Assembly](/img/assembly.jpg)
 
-![Power](master/img/power.jpg)
+![Power](/img/power.jpg)
 
-![Soil moisture sensor](master/img/soil_moisture_sensor.jpg)
+![Soil moisture sensor](/img/soil_moisture_sensor.jpg)
 
-![Valve](master/img/Valve.jpg)
+![Valve](r/img/valve.jpg)
