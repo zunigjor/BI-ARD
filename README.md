@@ -8,4 +8,4 @@ Main parts:
 
 ![Soil moisture sensor](/img/soil_moisture_sensor.jpg)
 
-![Valve](r/img/valve.jpg)
+![Valve](/img/valve.jpg)
