@@ -2,6 +2,7 @@
 Automatic gardening system
 
 Main parts:
+
 Complete assembly:
 ![Assembly](/img/assembly.jpg)
 Power line:
