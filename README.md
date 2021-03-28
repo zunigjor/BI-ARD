@@ -1,4 +1,4 @@
-# BI-ARD
+# Interactive applications on Arduino
 Automatic gardening system
 
 Main parts:
